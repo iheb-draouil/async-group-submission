@@ -7,5 +7,6 @@
 - run tests
 
 ```bash
+composer install
 composer test
 ```
